@@ -10,7 +10,9 @@ Claude のデスクトップアプリの入力欄を、次のように変える 
 
 ## Claude Code に頼んで入れる
 
-Claude のデスクトップアプリの Code タブで、こう頼んでください。
+Claude のデスクトップアプリの Code タブで、次の一文を送るだけです。
+
+![Code タブの入力欄に、GitHub の URL と一文を入れたところ](docs/ask-claude-code.png)
 
 ```
 https://github.com/Tottorion/claude-enter-newline の README の「Claude Code 向けの手順」のとおりに、この PC に入れて
